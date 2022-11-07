@@ -1,5 +1,6 @@
 html {
     font-family: sans-serif; /* Font of whole page*/
+    background-color: lightgray;
 }
 
 h1 {
@@ -48,3 +49,4 @@ form {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
   }
+
